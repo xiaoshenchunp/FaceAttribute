@@ -49,3 +49,7 @@ MouthOpen  0.9407
 Smiling   0.9200
 
 Young   0.8776
+
+
+@by write xiaoshen
+具体的解释位于：https://zhuanlan.zhihu.com/p/32866194?utm_source=qq&utm_medium=social
