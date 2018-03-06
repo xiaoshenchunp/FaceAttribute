@@ -53,3 +53,4 @@ Young   0.8776
 
 @by write xiaoshen
 具体的解释位于：https://zhuanlan.zhihu.com/p/32866194?utm_source=qq&utm_medium=social
+            此外针对人脸的年龄检测可参考：https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
